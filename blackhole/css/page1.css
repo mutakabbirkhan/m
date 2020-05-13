@@ -1,0 +1,14 @@
+html{
+    background-color: #848E66;
+    background: url("../images/page1.jpg")  no-repeat;
+    background-size: 100%;
+    color: #Ffffff;
+}
+summary{
+  display: inline-block;
+  font-size: 130%;
+  font-weight: bold;
+}
+a{
+  color:#ff0000;
+}
